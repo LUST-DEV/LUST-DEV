@@ -23,10 +23,13 @@ LUST DEV est un profil dédié à la création et au partage de projets numériq
 
 ## Découvrir
 
-- 🌍 [Portfolio LUST DEV](https://lust-dev-portfolio.zone.id/)
-- 📦 [Dépôts GitHub](https://github.com/LUST-DEV?tab=repositories)
-- 🗺️ [Sitemap du portfolio](https://lust-dev-portfolio.zone.id/sitemap.xml)
-- 🧰 [Code source du portfolio](https://github.com/LUST-DEV/lust-dev-portfolio)
-- ✉️ [Écrire par e-mail](mailto:lustdev927@gmail.com)
+- <a href="https://lust-dev-portfolio.zone.id/"><img src="https://lust-dev-portfolio.zone.id/favicon.png" width="20" height="20" alt=""> Portfolio LUST DEV</a>
+- <a href="https://github.com/LUST-DEV?tab=repositories"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=64" width="20" height="20" alt=""> Dépôts GitHub</a>
+- <a href="https://lust-dev-portfolio.zone.id/sitemap.xml"><img src="https://lust-dev-portfolio.zone.id/favicon.png" width="20" height="20" alt=""> Sitemap du portfolio</a>
+- <a href="https://github.com/LUST-DEV/lust-dev-portfolio"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=64" width="20" height="20" alt=""> Code source du portfolio</a>
+- <a href="https://t.me/yokubo666"><img src="https://www.google.com/s2/favicons?domain=t.me&sz=64" width="20" height="20" alt=""> Telegram</a>
+- <a href="https://whatsapp.com/channel/0029VbCiqwyBVJl3Jv5T4I15"><img src="https://www.google.com/s2/favicons?domain=whatsapp.com&sz=64" width="20" height="20" alt=""> Canal WhatsApp</a>
+- <a href="https://www.youtube.com/@LustDev"><img src="https://www.google.com/s2/favicons?domain=youtube.com&sz=64" width="20" height="20" alt=""> YouTube</a>
+- <a href="mailto:lustdev927@gmail.com"><img src="https://www.google.com/s2/favicons?domain=gmail.com&sz=64" width="20" height="20" alt=""> E-mail</a>
 
 <p align="center"><sub>Construire des outils utiles, partager le code et faire progresser les idées.</sub></p>
