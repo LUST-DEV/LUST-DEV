@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">LUST DEV</h1>
+<p align="center"><strong>Développement logiciel · Bots · Automatisation · Open source</strong></p>
 
-<!--
-**LUST-DEV/LUST-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://lust-dev-portfolio.zone.id/"><img src="https://img.shields.io/badge/Portfolio-Visiter-286BB7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visiter le portfolio LUST DEV"></a>
+  <a href="https://github.com/LUST-DEV?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explorer_les_dépôts-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorer les dépôts GitHub LUST DEV"></a>
+  <a href="https://t.me/yokubo666"><img src="https://img.shields.io/badge/Telegram-Contacter-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Contacter LUST DEV sur Telegram"></a>
+  <a href="https://whatsapp.com/channel/0029VbCiqwyBVJl3Jv5T4I15"><img src="https://img.shields.io/badge/WhatsApp-Rejoindre_le_canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Rejoindre le canal WhatsApp LUST DEV"></a>
+  <a href="https://www.youtube.com/@LustDev"><img src="https://img.shields.io/badge/YouTube-Suivre_LUST_DEV-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Suivre LUST DEV sur YouTube"></a>
+  <a href="mailto:lustdev927@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envoyer un e-mail à LUST DEV"></a>
+</p>
 
-Here are some ideas to get you started:
+## À propos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LUST DEV est un profil dédié à la création et au partage de projets numériques. Les dépôts publics présentent des outils, des bots, des projets web et des expérimentations open source.
+
+## Domaines d’intérêt
+
+- 🤖 Bots et intégrations
+- 🌐 Développement web
+- ⚙️ Automatisation et outils
+- 💻 Projets open source
+
+## Découvrir
+
+- 🌍 [Portfolio LUST DEV](https://lust-dev-portfolio.zone.id/)
+- 📦 [Dépôts GitHub](https://github.com/LUST-DEV?tab=repositories)
+- 🗺️ [Sitemap du portfolio](https://lust-dev-portfolio.zone.id/sitemap.xml)
+- 🧰 [Code source du portfolio](https://github.com/LUST-DEV/lust-dev-portfolio)
+- ✉️ [Écrire par e-mail](mailto:lustdev927@gmail.com)
+
+<p align="center"><sub>Construire des outils utiles, partager le code et faire progresser les idées.</sub></p>
