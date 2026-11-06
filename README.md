@@ -21,6 +21,53 @@ LUST DEV est un profil dédié à la création et au partage de projets numériq
 - ⚙️ Automatisation et outils
 - 💻 Projets open source
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LUST-DEV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="Statistiques GitHub de LUST DEV" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUST-DEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Langages les plus utilisés par LUST DEV" />
+</p>
+
+## Dev Stats
+
+<p align="center">
+  <a href="https://github.com/LUST-DEV">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LUST-DEV&theme=tokyonight&hide_border=true" height="170" alt="Streak de contributions GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
+</p>
+
+## Why Me
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://api.iconify.design/mdi/code-tags.svg?color=%232866D6" width="44" height="44" alt="Code" />
+      <br><strong>Code utile</strong><br>
+      Des solutions simples, propres et pensées pour résoudre de vrais problèmes.
+    </td>
+    <td width="33%" align="center">
+      <img src="https://api.iconify.design/mdi/source-branch.svg?color=%232866D6" width="44" height="44" alt="Open source" />
+      <br><strong>Esprit open source</strong><br>
+      Je construis, documente et partage des projets réutilisables.
+    </td>
+    <td width="33%" align="center">
+      <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%232866D6" width="44" height="44" alt="Innovation" />
+      <br><strong>Construire vite</strong><br>
+      De l’idée au prototype fonctionnel avec une approche pragmatique.
+    </td>
+  </tr>
+</table>
+
 ## Découvrir
 
 - <a href="https://lust-dev-portfolio.zone.id/"><img src="https://lust-dev-portfolio.zone.id/favicon.png" width="20" height="20" alt=""> Portfolio LUST DEV</a>
