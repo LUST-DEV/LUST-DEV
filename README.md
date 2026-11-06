@@ -101,24 +101,37 @@ L’objectif est simple : **construire des solutions utiles, apprendre continuel
 
 ## Découvrir mes projets
 
-<p align="center">
-  <a href="https://lust-dev-portfolio.zone.id/"><img src="https://lust-dev-portfolio.zone.id/favicon.png" width="22" height="22" alt=""> <strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/LUST-DEV?tab=repositories"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=64" width="22" height="22" alt=""> <strong>Dépôts GitHub</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/LUST-DEV/lust-dev-portfolio"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=64" width="22" height="22" alt=""> <strong>Code du portfolio</strong></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://lust-dev-portfolio.zone.id/"><img src="https://lust-dev-portfolio.zone.id/favicon.png" width="42" height="42" alt="Portfolio" /><br><strong>Portfolio</strong></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/LUST-DEV?tab=repositories"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=64" width="42" height="42" alt="Dépôts GitHub" /><br><strong>Dépôts GitHub</strong></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/LUST-DEV/lust-dev-portfolio"><img src="https://www.google.com/s2/favicons?domain=github.com&sz=64" width="42" height="42" alt="Code du portfolio" /><br><strong>Code du portfolio</strong></a>
+    </td>
+  </tr>
+</table>
 
 ## Restons connectés
 
-<p align="center">
-  <a href="https://t.me/yokubo666"><img src="https://www.google.com/s2/favicons?domain=t.me&sz=64" width="22" height="22" alt=""> Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="https://whatsapp.com/channel/0029VbCiqwyBVJl3Jv5T4I15"><img src="https://www.google.com/s2/favicons?domain=whatsapp.com&sz=64" width="22" height="22" alt=""> Canal WhatsApp</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@LustDev"><img src="https://www.google.com/s2/favicons?domain=youtube.com&sz=64" width="22" height="22" alt=""> YouTube</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:lustdev927@gmail.com"><img src="https://www.google.com/s2/favicons?domain=gmail.com&sz=64" width="22" height="22" alt=""> E-mail</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://t.me/yokubo666"><img src="https://www.google.com/s2/favicons?domain=t.me&sz=64" width="42" height="42" alt="Telegram" /><br><strong>Telegram</strong></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://whatsapp.com/channel/0029VbCiqwyBVJl3Jv5T4I15"><img src="https://www.google.com/s2/favicons?domain=whatsapp.com&sz=64" width="42" height="42" alt="Canal WhatsApp" /><br><strong>Canal WhatsApp</strong></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.youtube.com/@LustDev"><img src="https://www.google.com/s2/favicons?domain=youtube.com&sz=64" width="42" height="42" alt="YouTube" /><br><strong>YouTube</strong></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:lustdev927@gmail.com"><img src="https://www.google.com/s2/favicons?domain=gmail.com&sz=64" width="42" height="42" alt="E-mail" /><br><strong>E-mail</strong></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center"><sub>Construire des outils utiles · partager le code · faire progresser les idées.</sub></p>
