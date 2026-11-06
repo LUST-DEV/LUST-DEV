@@ -24,15 +24,15 @@ LUST DEV est un profil dédié à la création et au partage de projets numériq
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LUST-DEV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="Statistiques GitHub de LUST DEV" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUST-DEV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Langages les plus utilisés par LUST DEV" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LUST-DEV&theme=tokyonight" height="170" alt="Statistiques GitHub de LUST DEV" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LUST-DEV&theme=tokyonight" height="170" alt="Langages les plus utilisés par LUST DEV" />
 </p>
 
 ## Dev Stats
 
 <p align="center">
   <a href="https://github.com/LUST-DEV">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LUST-DEV&theme=tokyonight&hide_border=true" height="170" alt="Streak de contributions GitHub" />
+    <img src="https://streak-stats.demolab.com/?user=LUST-DEV&theme=tokyonight&hide_border=true" height="170" alt="Streak de contributions GitHub" />
   </a>
 </p>
 
